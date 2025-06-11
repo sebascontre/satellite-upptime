@@ -8,7 +8,6 @@ sites:
     icon: https://satellite.moe/favicon.ico
   - name: Satellite 24/7
     url: https://twitch.tv/satellitemoe
-    icon: https://twitch.tv/favicon.ico
   - name: Satellite Chatbot
     url: $CHATBOT_URL
     icon: https://cloud.google.com/favicon.ico
