@@ -13,6 +13,7 @@ sites:
     url: $CHATBOT_URL
     icon: https://cloud.google.com/favicon.ico
     expectedStatusCodes:
+      - 200
       - 503
 
 status-website:
