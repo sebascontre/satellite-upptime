@@ -1,7 +1,7 @@
 url: $CHATBOT_URL
-status: down
-code: 503
-responseTime: 272
-lastUpdated: 2025-06-11T04:00:04.496Z
+status: up
+code: 200
+responseTime: 241
+lastUpdated: 2025-06-11T04:27:59.127Z
 startTime: 2025-06-08T17:49:37.890Z
 generator: Upptime <https://github.com/upptime/upptime>
